@@ -2,7 +2,7 @@
 - 👀 I’m interested in cpp
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on cpp projects
-- 📫 How to reach me ...
+- 📫 You can reach me via github 
 
 <!---
 dbgee/dbgee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
