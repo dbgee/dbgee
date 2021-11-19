@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @dbgee
-- 👀 I’m interested in cpp
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on cpp projects
 - 📫 You can reach me via github 
 
 <!---
